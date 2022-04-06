@@ -24,6 +24,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/output/coco_kpt/pose_higher_hrnet" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python-workspace\pose\HigherHRNet\output\coco_kpt\pose_higher_hrnet" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HigherHRNet" />
@@ -61,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649230135959</updated>
-      <workItem from="1649230137151" duration="456000" />
+      <workItem from="1649230137151" duration="1030000" />
     </task>
     <servers />
   </component>
