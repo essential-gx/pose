@@ -92,8 +92,7 @@ def main():
         logger.info('=> loading model from {}'.format(cfg.TEST.MODEL_FILE))
         model.load_state_dict(torch.load(cfg.TEST.MODEL_FILE), strict=True)
     else:
-        model_root = '\\'
-        model_root = model_root.join(final_output_dir.split(sep='\\')[:-1])
+        model_root = '\\'.join(final_output_dir.split(sep='\\')[:-1])
         model_state_file = os.path.join(
             model_root, 'pose_higher_hrnet_w32_512.pth'
         )

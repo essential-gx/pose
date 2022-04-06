@@ -1,0 +1,3 @@
+2022-04-06 15:35:24,785 root INFO Namespace(cfg='../experiments/coco/higher_hrnet/w32_512_adam_lr1e-3.yaml', opts=[])
+2022-04-06 15:35:24,947 root INFO => loading model from ..\output\coco_kpt\pose_higher_hrnet\pose_higher_hrnet_w32_512.pth
+2022-04-06 15:35:26,491 root INFO => classes: ['__background__', 'person']
